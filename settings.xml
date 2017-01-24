@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:soapui-project id="45d94cf3-d464-46ce-93a5-b944bed1565a" activeEnvironment="Default environment" name="Project 5" lastOpened="2017-01-24T11:34:43.816+05:30" resourceRoot="" soapui-version="6.0.0" compositeProjectFormat="1.3" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.actions.iface.tools.soapui.ProTestRunnerAction@values-local"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+<con:soapui-project id="45d94cf3-d464-46ce-93a5-b944bed1565a" activeEnvironment="Default environment" name="Project 5" lastOpened="2017-01-24T16:07:53.895+05:30" resourceRoot="" soapui-version="6.0.0" compositeProjectFormat="1.3" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.actions.iface.tools.soapui.ProTestRunnerAction@values-local"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
   <con:entry key="Report Format(s)" value=""/>
   <con:entry key="Host:Port" value=""/>
   <con:entry key="Export JUnit Results" value="false"/>
